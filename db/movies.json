@@ -1,0 +1,673 @@
+[
+    {
+        "id": "1",
+        "title": "Shazam!",
+        "poster": "https://image.tmdb.org/t/p/w500/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+        "overview": "A boy is given the ability to become an adult superhero in times of need with a single magic word.",
+        "release_date": 1553299200,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Captain Marvel",
+        "poster": "https://image.tmdb.org/t/p/w500/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+        "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+        "release_date": 1551830400,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Escape Room",
+        "poster": "https://image.tmdb.org/t/p/w500/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg",
+        "overview": "Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.",
+        "release_date": 1546473600,
+        "genres": [
+            "Thriller",
+            "Action",
+            "Horror",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "How to Train Your Dragon: The Hidden World",
+        "poster": "https://image.tmdb.org/t/p/w500/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+        "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+        "release_date": 1546473600,
+        "genres": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Glass",
+        "poster": "https://image.tmdb.org/t/p/w500/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+        "overview": "In a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+        "release_date": 1547596800,
+        "genres": [
+            "Documentary"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Doraemon the Movie: Nobita's Treasure Island",
+        "poster": "https://image.tmdb.org/t/p/w500/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg",
+        "overview": "The story is based on Robert Louis Stevenson's Treasure Island novel.",
+        "release_date": 1520035200,
+        "genres": [
+            "Animation"
+        ]
+    },
+    {
+        "id": "7",
+        "title": "Dumbo",
+        "poster": "https://image.tmdb.org/t/p/w500/deTOAcMWuHTjOUPQphwcPFFfTQz.jpg",
+        "overview": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus, but when the circus plans a new venture, Dumbo and his friends discover dark secrets beneath its shiny veneer.",
+        "release_date": 1553644800,
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Avengers: Infinity War",
+        "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "release_date": 1524618000,
+        "genres": [
+            "Adventure",
+            "Action",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Us",
+        "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+        "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+        "release_date": 1552521600,
+        "genres": [
+            "Documentary",
+            "Family"
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Bumblebee",
+        "poster": "https://image.tmdb.org/t/p/w500/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
+        "overview": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.",
+        "release_date": 1544832000,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": "11",
+        "title": "Cars",
+        "poster": "https://image.tmdb.org/t/p/w500/qa6HCwP4Z15l3hpsASz3auugEW6.jpg",
+        "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+        "release_date": 1149728400,
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "id": "12",
+        "title": "Avengers: Endgame",
+        "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+        "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+        "release_date": 1556067600,
+        "genres": [
+            "Adventure",
+            "Science Fiction",
+            "Action"
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Spider-Man: Into the Spider-Verse",
+        "poster": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson 'Kingpin' Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+        "release_date": 1544140800,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Science Fiction",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "14",
+        "title": "Pet Sematary",
+        "poster": "https://image.tmdb.org/t/p/w500/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+        "overview": "Louis Creed, his wife Rachel and their two children Gage and Ellie move to a rural home where they are welcomed and enlightened about the eerie 'Pet Sematary' located nearby. After the tragedy of their cat being killed by a truck, Louis resorts to burying it in the mysterious pet cemetery, which is definitely not as it seems, as it proves to the Creeds that sometimes dead is better.",
+        "release_date": 1554339600,
+        "genres": [
+            "Thriller",
+            "Horror"
+        ]
+    },
+    {
+        "id": "15",
+        "title": "Hellboy",
+        "poster": "https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+        "overview": "Hellboy comes to England, where he must defeat Nimue, Merlin's consort and the Blood Queen. But their battle will bring about the end of the world, a fate he desperately tries to turn away.",
+        "release_date": 1554944400,
+        "genres": [
+            "Fantasy",
+            "Action"
+        ]
+    },
+    {
+        "id": "16",
+        "title": "After",
+        "poster": "https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+        "overview": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship.",
+        "release_date": 1554944400,
+        "genres": [
+            "Mystery",
+            "Drama"
+        ]
+    },
+    {
+        "id": "17",
+        "title": "Redcon-1",
+        "poster": "https://image.tmdb.org/t/p/w500/vVPrWngVJ2cfYAncBedQty69Dlf.jpg",
+        "overview": "After a zombie apocalypse spreads from a London prison, the UK is brought to its knees. The spread of the virus is temporarily contained but, without a cure, it’s only a matter of time before it breaks its boundaries and the biggest problem of all… any zombies with combat skills are now enhanced. With the South East of England quarantined from the rest of the world using fortified borders, intelligence finds that the scientist responsible for the outbreak is alive and well in London. With his recovery being the only hope of a cure, a squad of eight Special Forces soldiers is sent on a suicide mission to the city, now ruled by the undead, with a single task: get him out alive within 72 hours by any means necessary. What emerges is an unlikely pairing on a course to save humanity against ever-rising odds.",
+        "release_date": 1538096400,
+        "genres": [
+            "Action",
+            "Horror"
+        ]
+    },
+    {
+        "id": "18",
+        "title": "Thor: Ragnarok",
+        "poster": "https://image.tmdb.org/t/p/w500/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+        "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
+        "release_date": 1508893200,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "19",
+        "title": "Bohemian Rhapsody",
+        "poster": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+        "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+        "release_date": 1540342800,
+        "genres": [
+            "Music",
+            "Documentary"
+        ]
+    },
+    {
+        "id": "20",
+        "title": "A Dog's Way Home",
+        "poster": "https://image.tmdb.org/t/p/w500/pZn87R7gtmMCGGO8KeaAfZDhXLg.jpg",
+        "overview": "A Dog’s Way Home chronicles the heartwarming adventure of Bella, a dog who embarks on an epic 400-mile journey home after she is separated from her beloved human.",
+        "release_date": 1547078400,
+        "genres": [
+            "Drama",
+            "Family",
+            "Adventure"
+        ]
+    },
+    {
+        "id": "21",
+        "title": "Black Panther",
+        "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+        "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+        "release_date": 1518480000,
+        "genres": [
+            "Family",
+            "Drama"
+        ]
+    },
+    {
+        "id": "22",
+        "title": "Venom",
+        "poster": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "release_date": 1538096400,
+        "genres": [
+            "Thriller"
+        ]
+    },
+    {
+        "id": "23",
+        "title": "The Upside",
+        "poster": "https://image.tmdb.org/t/p/w500/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+        "overview": "Phillip is a wealthy quadriplegic who needs a caretaker to help him with his day-to-day routine in his New York penthouse. He decides to hire Dell, a struggling parolee who's trying to reconnect with his ex and his young son. Despite coming from two different worlds, an unlikely friendship starts to blossom.",
+        "release_date": 1547078400,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "24",
+        "title": "Ant-Man and the Wasp",
+        "poster": "https://image.tmdb.org/t/p/w500/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
+        "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+        "release_date": 1530666000,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "25",
+        "title": "Jurassic World: Fallen Kingdom",
+        "poster": "https://image.tmdb.org/t/p/w500/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg",
+        "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
+        "release_date": 1528246800,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": "26",
+        "title": "The Beach Bum",
+        "poster": "https://image.tmdb.org/t/p/w500/iXMxdC7T0t3dxislnUNybcvJmAH.jpg",
+        "overview": "An irreverent comedy about the misadventures of Moondog, a rebellious stoner and lovable rogue who lives large.",
+        "release_date": 1553126400,
+        "genres": [
+            "Comedy"
+        ]
+    },
+    {
+        "id": "27",
+        "title": "Creed II",
+        "poster": "https://image.tmdb.org/t/p/w500/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+        "overview": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+        "release_date": 1542758400,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "28",
+        "title": "Triple Frontier",
+        "poster": "https://image.tmdb.org/t/p/w500/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+        "overview": "Struggling to make ends meet, former special ops soldiers reunite for a high-stakes heist: stealing $75 million from a South American drug lord.",
+        "release_date": 1551830400,
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime",
+            "Adventure"
+        ]
+    },
+    {
+        "id": "29",
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "poster": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+        "overview": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+        "release_date": 1418169600,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "30",
+        "title": "Wonder Park",
+        "poster": "https://image.tmdb.org/t/p/w500/8KomINZhIuJeB4oB7k7tkq8tmE.jpg",
+        "overview": "The story of a magnificent amusement park where the imagination of a wildly creative girl named June comes alive.",
+        "release_date": 1552521600,
+        "genres": [
+            "Comedy",
+            "Animation",
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "31",
+        "title": "Detective Conan: The Fist of Blue Sapphire",
+        "poster": "https://image.tmdb.org/t/p/w500/jUfCBwhSTE02jTN9REJbHm2lRL8.jpg",
+        "overview": "23rd Detective Conan Movie.",
+        "release_date": 1555030800,
+        "genres": [
+            "Animation",
+            "Action",
+            "Drama",
+            "Mystery",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "32",
+        "title": "Cold Pursuit",
+        "poster": "https://image.tmdb.org/t/p/w500/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg",
+        "overview": "Nels Coxman's quiet life comes crashing down when his beloved son dies under mysterious circumstances. His search for the truth soon becomes a quest for revenge as he seeks coldblooded justice against a drug lord and his inner circle.",
+        "release_date": 1549497600,
+        "genres": [
+            "Action"
+        ]
+    },
+    {
+        "id": "33",
+        "title": "Star Wars: The Last Jedi",
+        "poster": "https://image.tmdb.org/t/p/w500/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+        "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+        "release_date": 1513123200,
+        "genres": [
+            "Documentary"
+        ]
+    },
+    {
+        "id": "34",
+        "title": "Deadpool 2",
+        "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+        "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+        "release_date": 1526346000,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Adventure"
+        ]
+    },
+    {
+        "id": "35",
+        "title": "Interstellar",
+        "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "overview": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "release_date": 1415145600,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": "36",
+        "title": "Triple Threat",
+        "poster": "https://image.tmdb.org/t/p/w500/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg",
+        "overview": "A crime syndicate places a hit on a billionaire's daughter, making her the target of an elite assassin squad. A small band of down-and-out mercenaries protects her, fighting tooth and nail to stop the assassins from reaching their target.",
+        "release_date": 1552953600,
+        "genres": [
+            "Action",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "37",
+        "title": "Avengers: Age of Ultron",
+        "poster": "https://image.tmdb.org/t/p/w500/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+        "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+        "release_date": 1429664400,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ]
+    },
+    {
+        "id": "38",
+        "title": "Captain America: Civil War",
+        "poster": "https://image.tmdb.org/t/p/w500/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+        "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+        "release_date": 1461718800,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ]
+    },
+    {
+        "id": "39",
+        "title": "Mirage",
+        "poster": "https://image.tmdb.org/t/p/w500/oLO9y7GoyAVUVoAWD6jCgY7GQfs.jpg",
+        "overview": "Two storms separated by 25 years. A woman murdered. A daughter missed. Only 72 hours to discover the truth.",
+        "release_date": 1543536000,
+        "genres": [
+            "Horror"
+        ]
+    },
+    {
+        "id": "40",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "poster": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+        "overview": "Jack Sparrow, a freewheeling 18th-century pirate, quarrels with a rival pirate bent on pillaging Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her.",
+        "release_date": 1057712400,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ]
+    },
+    {
+        "id": "41",
+        "title": "Green Book",
+        "poster": "https://image.tmdb.org/t/p/w500/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+        "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+        "release_date": 1542326400,
+        "genres": [
+            "Drama",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "42",
+        "title": "Welcome to Marwen",
+        "poster": "https://image.tmdb.org/t/p/w500/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg",
+        "overview": "When a devastating attack shatters Mark Hogancamp and wipes away all memories, no one expected recovery. Putting together pieces from his old and new life, Mark meticulously creates a wondrous town named Marwen where he can heal and be heroic. As he builds an astonishing art installation — a testament to the most powerful women he knows — through his fantasy world, he draws strength to triumph in the real one.",
+        "release_date": 1545350400,
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "43",
+        "title": "Thor: The Dark World",
+        "poster": "https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+        "overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+        "release_date": 1383004800,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "id": "44",
+        "title": "Close",
+        "poster": "https://image.tmdb.org/t/p/w500/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg",
+        "overview": "A counter-terrorism expert takes a job protecting a young heiress. After an attempted kidnapping puts both of their lives in danger, they must flee.",
+        "release_date": 1547769600,
+        "genres": [
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "id": "45",
+        "title": "The Dirt",
+        "poster": "https://image.tmdb.org/t/p/w500/xGY5rr8441ib0lT9mtHZn7e8Aay.jpg",
+        "overview": "The story of Mötley Crüe and their rise from the Sunset Strip club scene of the early 1980s to superstardom.",
+        "release_date": 1553212800,
+        "genres": []
+    },
+    {
+        "id": "46",
+        "title": "Steel Country",
+        "poster": "https://image.tmdb.org/t/p/w500/7QqFn9UzuSnh1uOPeSfYL1MFjkB.jpg",
+        "overview": "When a young boy turns up dead in a sleepy Pennsylvania town, a local sanitation truck driver, Donald, plays detective, embarking on a precarious and obsessive investigation to prove the boy was murdered.",
+        "release_date": 1555030800,
+        "genres": []
+    },
+    {
+        "id": "122",
+        "title": "The Lord of the Rings: The Return of the King",
+        "poster": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam bring the ring closer to the heart of Mordor, the dark lord's realm.",
+        "release_date": 1070236800,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ]
+    },
+    {
+        "id": "47",
+        "title": "Alien",
+        "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+        "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+        "release_date": 296442000,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "id": "48",
+        "title": "Star Wars: The Force Awakens",
+        "poster": "https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+        "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+        "release_date": 1450137600,
+        "genres": [
+            "Documentary"
+        ]
+    },
+    {
+        "id": "49",
+        "title": "Deadpool",
+        "poster": "https://image.tmdb.org/t/p/w500/yGSxMiF0cYuAiyuve5DA6bnWEOI.jpg",
+        "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+        "release_date": 1454976000,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "id": "50",
+        "title": "A Star Is Born",
+        "poster": "https://image.tmdb.org/t/p/w500/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+        "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+        "release_date": 1538528400,
+        "genres": [
+            "Documentary",
+            "Music"
+        ]
+    },
+    {
+        "id": "51",
+        "title": "Holmes & Watson",
+        "poster": "https://image.tmdb.org/t/p/w500/orEUlKndjV1rEcWqXbbjegjfv97.jpg",
+        "overview": "Detective Sherlock Holmes and Dr. John Watson join forces to investigate a murder at Buckingham Palace. They soon learn that they have only four days to solve the case, or the queen will become the next victim.",
+        "release_date": 1545696000,
+        "genres": [
+            "Mystery",
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "id": "52",
+        "title": "Vice",
+        "poster": "https://image.tmdb.org/t/p/w500/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+        "overview": "George W. Bush picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé includes stints as White House chief of staff, House Minority Whip and defense secretary. When Bush wins by a narrow margin, Cheney begins to use his newfound power to help reshape the country and the world.",
+        "release_date": 1545696000,
+        "genres": [
+            "Action",
+            "Thriller"
+        ]
+    },
+    {
+        "id": "53",
+        "title": "Blade Runner 2049",
+        "poster": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+        "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+        "release_date": 1507078800,
+        "genres": [
+            "Documentary"
+        ]
+    },
+    {
+        "id": "54",
+        "title": "On the Basis of Sex",
+        "poster": "https://image.tmdb.org/t/p/w500/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg",
+        "overview": "Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of sex discrimination.",
+        "release_date": 1545696000,
+        "genres": [
+            "Drama",
+            "History"
+        ]
+    },
+    {
+        "id": "55",
+        "title": "Die Hard",
+        "poster": "https://image.tmdb.org/t/p/w500/1fq1IpnuVqkD5BMuaXAUW0eVB21.jpg",
+        "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+        "release_date": 584931600,
+        "genres": [
+            "Action"
+        ]
+    },
+    {
+        "id": "56",
+        "title": "Robin Hood",
+        "poster": "https://image.tmdb.org/t/p/w500/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg",
+        "overview": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+        "release_date": 1542672000,
+        "genres": [
+            "Family",
+            "Animation"
+        ]
+    },
+    {
+        "id": "57",
+        "title": "Split",
+        "poster": "https://image.tmdb.org/t/p/w500/bqb9WsmZmDIKxqYmBJ9lj7J6hzn.jpg",
+        "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
+        "release_date": 1484784000,
+        "genres": [
+            "Science Fiction",
+            "Drama"
+        ]
+    },
+    {
+        "id": "58",
+        "title": "How to Train Your Dragon",
+        "poster": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+        "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father",
+        "release_date": 1268179200,
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Family"
+        ]
+    }
+]
